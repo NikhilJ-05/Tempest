@@ -3,10 +3,6 @@
 > [!NOTE]
 > Ver 1.0 was created during the Coventry Summer School program as a final-week project.
 
-> [!IMPORTANT]
-> To try out Ver 1.0 run the SpaceShipSaver application present inside built files folder
-
-
 
 
 **Abstract**
