@@ -1,4 +1,4 @@
-# Tempest Ver 1.0
+# Ver 1.0
 
 > [!NOTE]
 > Ver 1.0 was created during the Coventry Summer School program as a final-week project.
