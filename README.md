@@ -6,6 +6,8 @@
 > [!IMPORTANT]
 > To try out Ver 1.0 run the SpaceShipSaver application.
 
+
+
 **Abstract**
 
 In the year 2147, Earth lies in ruins, ravaged by a cosmic tempest of unimaginable power. Once thriving cities are now desolate wastelands and humanity’s survival hangs by a thread. Amidst this chaos, the Legion, the last bastion of order, stands as humanity’s final defense against an ever-evolving enemy.
@@ -20,6 +22,8 @@ After landing the ship in Level 1, the player rushes to check on their teammates
 
 **Level 3**
 During Levels 1 and 2, the ship sustains heavy damage. The player must explore the unknown planet and collect resources to repair it. In Level 3, the ship lands in a territory occupied by fantasy wolves. To take over the area, the player must eliminate all the wolves.
+
+
 
 > [!TIP]
 > New and reworked game areas will be available in the next version.
