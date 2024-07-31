@@ -1,6 +1,7 @@
 # Tempest
 
 > Tempest Ver 1.0 was created during the Coventry Summer School program as a final-week project.
+> To try out Ver 1.0 run the SpaceShipSaver application.
 
 **Abstract**
 
