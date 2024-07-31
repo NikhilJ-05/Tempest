@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Ver 1.0 was created during the Coventry Summer School program as a final-week project.
-
+![Cover Page](Ver 1.0/Cover page.png)
 
 
 **Abstract**
