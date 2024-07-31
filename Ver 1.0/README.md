@@ -13,13 +13,13 @@ In the year 2147, Earth lies in ruins, ravaged by a cosmic tempest of unimaginab
 
 Desperation drives a bold decision: to send a squad of elite operatives, known as Tempest, on a perilous mission. Their goal is to find a new sanctuary beyond the stars, a place where the human spirit can endure and rebuild. As they navigate the treacherous expanse of space, they face relentless threats and unimaginable challenges, all while carrying the hope of humanity’s future on their shoulders. The fate of mankind rests in their hands as they embark on this epic quest for survival. 
 
-**Level 1** 
+**Level 1**\
 While traveling across space, the ship is ambushed by enemies, sustaining heavy damage to one of its engines. As a result, the ship is now plummeting towards an uncharted planet, and the player must save it from crashing.
 
-**Level 2** 
+**Level 2** \
 After landing the ship in Level 1, the player rushes to check on their teammates in cryo pods. However, enemies suddenly attack, and the player must eliminate them to clear the level.
 
-**Level 3**
+**Level 3**\
 During Levels 1 and 2, the ship sustains heavy damage. The player must explore the unknown planet and collect resources to repair it. In Level 3, the ship lands in a territory occupied by fantasy wolves. To take over the area, the player must eliminate all the wolves.
 
 
