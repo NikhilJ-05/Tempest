@@ -1,6 +1,6 @@
 # Tempest
 
-<u>Tempest Ver 1.0 was created during Coventry Summer School program as a final week project.</u>
+> Tempest Ver 1.0 was created during Coventry Summer School program as a final week project.
 
 **Abstract**
 
