@@ -2,7 +2,9 @@
 
 > [!NOTE]
 > Ver 1.0 was created during the Coventry Summer School program as a final-week project.
-![Cover Page](Ver 1.0/Cover page.png)
+
+
+![Cover Page](https://github.com/NikhilJ-05/Tempest/blob/main/Ver%201.0/Cover%20page.png)
 
 
 **Abstract**
