@@ -25,6 +25,6 @@ After landing the ship in Level 1, the player rushes to check on their teammates
 During Levels 1 and 2, the ship sustains heavy damage. The player must explore the unknown planet and collect resources to repair it. In Level 3, the ship lands in a territory occupied by fantasy wolves. To take over the area, the player must eliminate all the wolves.
 
 
-
+[Click Here](https://nikhilj-05.itch.io/tempest-ver-1) to try out Ver 1.0
 > [!TIP]
 > New and reworked game areas will be available in the next version.
